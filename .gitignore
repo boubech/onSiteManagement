@@ -8,3 +8,5 @@ data/
 ui/.project
 ui/.settings/
 ui/dist/*
+terraform/.terraform/
+terraform/terraform.tfstate*
