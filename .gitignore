@@ -7,3 +7,4 @@ ui/node_modules/
 data/
 ui/.project
 ui/.settings/
+ui/dist/*
