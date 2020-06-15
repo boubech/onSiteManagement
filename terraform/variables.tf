@@ -42,7 +42,7 @@ variable "k8s_client_id" {
 variable "k8s_client_secret" {
 }
 variable "k8s_node_size" {
-  default = "Standard_DS3_v2"
+  default = "Standard_B2s"
 }
 
 ###########################
